@@ -1,4 +1,4 @@
-# Hi there, I'm Ayush Sakpal! 👋
+# Hi there, I'm Aayush Sakpal! 👋
 
 🔹 **Aspiring Software Engineer** | **Tech Enthusiast** | **Creative Problem Solver**
 
