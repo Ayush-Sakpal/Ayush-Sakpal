@@ -2,7 +2,7 @@
 
 🔹 **Aspiring Software Engineer** | **Tech Enthusiast** | **Creative Problem Solver**
 
-Welcome to my GitHub profile! I’m a B.Tech Computer Science student at **Indian Institute of Information Technology, Kottayam (IIIT-K)** with a deep passion for building scalable, user-friendly applications. My journey is filled with exciting projects and hands-on experience across various domains, from mobile app development to backend engineering and more.
+Welcome to my GitHub profile! I'm a B.Tech Computer Science student at **Indian Institute of Information Technology, Kottayam (IIIT-K)** with a deep passion for building scalable, user-friendly applications. My journey is filled with exciting projects and hands-on experience across various domains, from mobile app development to backend engineering and more.
 
 ## 📫 Get in Touch
 - **Email**: [ayushms1027@gmail.com](mailto:ayushms1027@gmail.com)
@@ -27,17 +27,29 @@ Welcome to my GitHub profile! I’m a B.Tech Computer Science student at **India
 ### 🚀 Frameworks, Tools, and Databases
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Firestore](https://img.shields.io/badge/-Firestore-FF7139?logo=firebase&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white)
+![Multer](https://img.shields.io/badge/-Multer-FF6600?logo=multer&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
 ---
 
 ## 💼 Projects
+
+### [LexPath - Career & Education Platform for Law Students](https://github.com/Ayush-Sakpal/lexpath)
+**Tech Stack**: React, Node.js, Express.js, PostgreSQL, Tailwind CSS, shadcn/ui, JWT, Multer, Axios  
+- Built a **full-stack career platform** for law students to explore career paths, discover colleges, track entrance exams, and apply for legal jobs.
+- Implemented **JWT-based authentication** with role-based access control and admin dashboard for comprehensive content management.
 
 ### [Fluff N Fold - Laundry App](https://github.com/Ayush-Sakpal/fluff-n-fold)
 **Tech Stack**: Flutter, Firebase, Firestore, Dart, Figma  
@@ -70,7 +82,7 @@ Welcome to my GitHub profile! I’m a B.Tech Computer Science student at **India
 ---
 
 ## 🌱 Currently Learning and Exploring
-I’m continuously expanding my skills in backend technologies, scalable app development, and AI/ML. Currently focused on:
+I'm continuously expanding my skills in backend technologies, scalable app development, and AI/ML. Currently focused on:
 - Developing AI-based expert systems
 - Implementing advanced data structures and algorithms in C++
 - Exploring new project ideas using Artificial Neural Networks (ANN)
