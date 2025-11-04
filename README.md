@@ -5,6 +5,7 @@
 Welcome to my GitHub profile! I'm a B.Tech Computer Science student at **Indian Institute of Information Technology, Kottayam (IIIT-K)** with a deep passion for building scalable, user-friendly applications. My journey is filled with exciting projects and hands-on experience across various domains, from mobile app development to backend engineering and more.
 
 ## 📫 Get in Touch
+- **Portfolio**: [Aayush Sakpal | Building Scalable Softwares and Creative Solutions](https://aayush-sakpal-building-scalable-sof.vercel.app/)
 - **Email**: [ayushms1027@gmail.com](mailto:ayushms1027@gmail.com)
 - **LinkedIn**: [Ayush Sakpal](https://linkedin.com/in/ayush-sakpal)
 - **GitHub**: [Ayush-Sakpal](https://github.com/Ayush-Sakpal)
